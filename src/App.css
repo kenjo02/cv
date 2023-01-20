@@ -2,13 +2,12 @@ body{
     background-color: rgb(71, 135, 146);
 }
 
-.columnas2{
 
-   text-align: center;
-   
+.columnas{
+padding-top: 30px;
+    column-count: 4;
+    column-gap: 5px;
 }
-.columnas1{
-
-    display: inline;
-    
+.columna2{
+    text-align: right;
 }
