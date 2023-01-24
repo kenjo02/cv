@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
        
        <h1>Kendall Johan Zamora Brenes</h1>
-       <img src="https://scontent.fsjo5-1.fna.fbcdn.net/v/t39.30808-6/272119798_6863246043745737_1219492390352460150_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=4mCpFCawZiQAX-_b9MS&_nc_ht=scontent.fsjo5-1.fna&oh=00_AfBFwsJh7yejvwWoe3x1BR9T1gbHQFMpYYEqkgijHCQdqw&oe=63CE051D"height="300px" width="300px"/>
+       <img src="/foto perfil.jpg"height="300px" width="300px"/>
        <div class="columnas1">
        <h1>Direccion</h1>
        <p>Alajuela:coyol</p>
