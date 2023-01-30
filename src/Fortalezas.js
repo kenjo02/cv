@@ -1,7 +1,8 @@
 const Fortalezas = () => {
 return <div>
-    <p>Tecnologia de la informacion y la comunicacion y desarrollo de las pequeñas aplicaciones de Software</p>
+   
         <h1>Fortalezas</h1>
+        <p>Tecnologia de la informacion y la comunicacion y desarrollo de las pequeñas aplicaciones de Software</p>
         <p>Capacidad de adaptación</p>
         <p>Habilidades Comunicativas</p>
         <p>Esfuerzo</p>
@@ -9,6 +10,7 @@ return <div>
         <p>Trabajo en equipo </p>
         <p>Proactividad</p>
         <p>Creatividad</p>
+        
         <h1>Conocimientos tecnicos</h1>
         <p>Conocimientos digitales (Excel, Word,Power Point) </p>
         <p>Desarrollo de pequeñas aplicacione de Software</p>

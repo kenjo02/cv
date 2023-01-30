@@ -11,3 +11,24 @@ padding-top: 30px;
 .columna2{
     text-align: right;
 }
+
+
+@media screen and (max-width: 600px) {
+    .abd {
+      display: none;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .bc {
+      display: none;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .dc {
+      display: none;
+    }
+  }
+
+ 

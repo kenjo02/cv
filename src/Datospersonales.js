@@ -1,5 +1,5 @@
 const Datospersonales = () => {
-    return <div>
+    return <div class="dc" >
        <h1>Direccion</h1>
        <p>Alajuela:coyol</p>
        <p>Urb:Monte rocoso</p>
